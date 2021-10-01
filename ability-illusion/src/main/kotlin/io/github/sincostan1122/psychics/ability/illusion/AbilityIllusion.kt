@@ -45,9 +45,9 @@ class AbilityIllusion : Ability<AbilityConceptIllusion>(), Listener {
 
     override fun onEnable() {
         psychic.registerEvents(this)
-    }
-}
-/*
+
+
+
        fakeEntity = psychic.spawnFakeEntity(arraylocation[0], ArmorStand::class.java).apply {
            updateMetadata<ArmorStand> {
                isVisible = true
@@ -98,5 +98,5 @@ class AbilityIllusion : Ability<AbilityConceptIllusion>(), Listener {
 
 
 }
-*/
+
 
