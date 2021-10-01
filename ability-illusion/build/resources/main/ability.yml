@@ -1,0 +1,5 @@
+group: io.github.sincostan1122
+name: illusion
+version: 2.0.0-SNAPSHOT
+main: io.github.sincostan1122.psychics.ability.illusion.AbilityIllusion
+author: sincostan1122
